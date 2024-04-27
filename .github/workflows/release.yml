@@ -2,7 +2,7 @@ name: Publish package to NPM
 
 on:
   push:
-  branches: [ "ss" ]
+    branches: [ "ss" ]
 
 jobs:
   build:
