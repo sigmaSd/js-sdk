@@ -1,5 +1,5 @@
 {
-  "name": "@extism/extism",
+  "name": "@sigmasd/lab",
   "version": "0.0.0-replaced-by-ci",
   "exports": "./src/mod.ts",
   "include": ["./src/**/*.ts", "LICENSE", "README.md", "types", "tsconfig.json"],
